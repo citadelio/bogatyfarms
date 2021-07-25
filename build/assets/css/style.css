@@ -107,12 +107,12 @@ font-family: 'Roboto', sans-serif;
     Normalize    071C1F   0E292D
 ---------------------------------------------------- */
 :root {
-  --ltn__primary-color: #071c1f;
+  --ltn__primary-color: #4B2500;
   --ltn__primary-color-2: #041113;
   /* Darken */
   --ltn__primary-color-3: #133236;
   /* Lighten */
-  --ltn__secondary-color: #80B500;
+  --ltn__secondary-color: #A6CE39;
   /* --ltn__secondary-color: #e53e29; */
   --ltn__secondary-color-2: #699403;
   /* Darken */
